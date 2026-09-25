@@ -98,19 +98,60 @@ show port-security interface
 ```
 
 ## Evidence Screenshots
-1. `01-enterprise-topology.png`
-2. `02-management-vlan-verification.png`
-3. `03-sw2-management-verification.png`
-4. `04-sw3-management-verification.png`
-5. `05-sw4-management-verification.png`
-6. `06-ssh-remote-management.png`
-7. `07-port-security-baseline.png`
-8. `08-acl-enforcement.png`
-9. `09-acl-policy-verification.png`
-10. `10-syslog-r2-verification.png`
-11. `11-central-syslog-verification.png`
-12. `12-syslog-server-configuration.png`
-13. `13-final-r2-security-verification.png`
+
+The following screenshots provide direct visual evidence of the network configuration, security controls, monitoring, and final verification.
+
+### 01. Enterprise Topology
+
+![Enterprise Topology](screenshots/01-enterprise-topology.png)
+
+### 02. Management VLAN Verification
+
+![Management VLAN Verification](screenshots/02-management-vlan-verification.png)
+
+### 03. SW2 Management Verification
+
+![SW2 Management Verification](screenshots/03-sw2-management-verification.png)
+
+### 04. SW3 Management Verification
+
+![SW3 Management Verification](screenshots/04-sw3-management-verification.png)
+
+### 05. SW4 Management Verification
+
+![SW4 Management Verification](screenshots/05-sw4-management-verification.png)
+
+### 06. SSH Remote Management
+
+![SSH Remote Management](screenshots/06-ssh-remote-management.png)
+
+### 07. Port Security Baseline
+
+![Port Security Baseline](screenshots/07-port-security-baseline.png)
+
+### 08. ACL Enforcement
+
+![ACL Enforcement](screenshots/08-acl-enforcement.png)
+
+### 09. ACL Policy Verification
+
+![ACL Policy Verification](screenshots/09-acl-policy-verification.png)
+
+### 10. Syslog R2 Verification
+
+![Syslog R2 Verification](screenshots/10-syslog-r2-verification.png)
+
+### 11. Central Syslog Verification
+
+![Central Syslog Verification](screenshots/11-central-syslog-verification.png)
+
+### 12. Syslog Server Configuration
+
+![Syslog Server Configuration](screenshots/12-syslog-server-configuration.png)
+
+### 13. Final R2 Security Verification
+
+![Final R2 Security Verification](screenshots/13-final-r2-security-verification.png)
 
 ## Project Structure
 ```text
